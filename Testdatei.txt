@@ -5,4 +5,5 @@ git cola schmiert ab
 was soll das gitcola wo bist du
 
 jetzt aber
-[conflict-online]  [conflict-local] noch
+<<<<<<< HEAD
+[conflict-online]  [conflict-local] noch mehr
