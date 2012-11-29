@@ -3,3 +3,5 @@ online eingegeben und mit GitCola gepullt
 git cola schmiert ab
 
 was soll das gitcola wo bist du
+
+jetzt aber
