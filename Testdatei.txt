@@ -9,5 +9,4 @@ jetzt aber
 function doStuff();
 function doStuff(withStuf);
 
-<<<<<<< HEAD
 verklickt und missclicked noch mal
