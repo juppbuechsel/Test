@@ -1,2 +1,3 @@
 Ich probier mal GitCola
 online eingegeben und mit GitCola gepullt
+git cola schmiert ab
