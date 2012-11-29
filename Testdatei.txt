@@ -6,3 +6,4 @@ was soll das gitcola wo bist du
 
 jetzt aber
 [conflict-online]  [conflict-local] noch mehr
+function doStuff();
